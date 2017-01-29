@@ -1,0 +1,11 @@
+*.class
+*.jar
+*.log
+
+/.idea
+/target
+/results
+/project/project/target
+/project/target
+
+
